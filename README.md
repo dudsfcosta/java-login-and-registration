@@ -1,4 +1,4 @@
-🔐 Java Login and Registration
+# 🔐 Java Login and Registration
 
 ## 📖 Sobre
 
